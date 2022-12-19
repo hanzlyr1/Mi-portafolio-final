@@ -1,0 +1,118 @@
+.h2-tecnologia {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-bottom: 3rem;
+    color: rgb(5, 172, 250);
+
+
+}
+
+.tecnologia {
+    display: flex;
+    width: 100%;
+    min-height: 250px;
+    padding: 0 3rem;
+    gap: 2rem;
+    background-color: rgba(255, 255, 255, 0.13);
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.article-tecno {
+    padding-bottom: 2rem;
+}
+
+.div-tecno {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 1rem;
+    max-width: 300px;
+    color: rgba(0, 3, 41, 0.822);
+    background-color: rgb(202, 199, 195);
+    border-radius: 10px;
+}
+
+.icons-link {
+    font-size: 5rem;
+
+
+}
+
+
+
+.app {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.soft {
+    display: flex;
+}
+
+.soft-grid {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+
+
+}
+
+.div-habilidades {
+    display: flex;
+    padding-top: 2rem;
+    justify-content: start;
+    align-items: start;
+    width: 100%;
+    gap: 5rem;
+    flex-wrap: wrap;
+
+}
+
+
+
+.grid-title {
+    text-align: center;
+    font-size: 2.3rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.grid-title-H {
+    font-size: 2.3rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+
+
+.grid-p {
+    width: 100%;
+    padding: 0 1rem;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+    max-width: 1000px;
+    line-height: 30px;
+    color: rgba(240, 248, 255, 0.5);
+    background-color: rgba(250, 235, 215, 0.116);
+    border-left: 10px solid rgb(125, 193, 224);
+}
+
+.div-habilidades {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.parrafo {
+    font-size: 2rem;
+}
